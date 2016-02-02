@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+}
+
+.emphasis {
+  display: inline-block;
+  background-color: #4fc08d; 
+  padding: 12px 14px;  
+}
+
+a {
+  text-decoration: none;
+}
